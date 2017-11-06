@@ -1,0 +1,445 @@
+{
+    "TimeWindow": {
+        "EndTime": 1509122050.276, 
+        "StartTime": 1509119990.0
+    }, 
+    "SampledRequests": [
+        {
+            "Action": "ALLOW", 
+            "Timestamp": 1509120952.502, 
+            "Request": {
+                "Country": "MX", 
+                "URI": "/Entrada.jsp", 
+                "Headers": [
+                    {
+                        "Name": "Host", 
+                        "Value": "administrador.upaxer.com"
+                    }, 
+                    {
+                        "Name": "User-Agent", 
+                        "Value": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G531H Build/LMY48B)"
+                    }, 
+                    {
+                        "Name": "Accept-Encoding", 
+                        "Value": "gzip"
+                    }
+                ], 
+                "ClientIP": "187.198.16.174", 
+                "Method": "GET", 
+                "HTTPVersion": "HTTP/1.1"
+            }, 
+            "Weight": 1
+        }, 
+        {
+            "Action": "ALLOW", 
+            "Timestamp": 1509121453.751, 
+            "Request": {
+                "Country": "MX", 
+                "URI": "/Entrada.jsp", 
+                "Headers": [
+                    {
+                        "Name": "Host", 
+                        "Value": "administrador.upaxer.com"
+                    }, 
+                    {
+                        "Name": "User-Agent", 
+                        "Value": "Dalvik/2.1.0 (Linux; U; Android 5.1; Blade A465 Build/LMY47D)"
+                    }, 
+                    {
+                        "Name": "Accept-Encoding", 
+                        "Value": "gzip"
+                    }
+                ], 
+                "ClientIP": "177.228.82.207", 
+                "Method": "GET", 
+                "HTTPVersion": "HTTP/1.1"
+            }, 
+            "Weight": 1
+        }, 
+        {
+            "Action": "ALLOW", 
+            "Timestamp": 1509121119.242, 
+            "Request": {
+                "Country": "MX", 
+                "URI": "/assets/js/components/Export.js", 
+                "Headers": [
+                    {
+                        "Name": "Host", 
+                        "Value": "administrador.upaxer.com"
+                    }, 
+                    {
+                        "Name": "User-Agent", 
+                        "Value": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+                    }, 
+                    {
+                        "Name": "Accept", 
+                        "Value": "*/*"
+                    }, 
+                    {
+                        "Name": "Referer", 
+                        "Value": "http://administrador.upaxer.com/index.jsp"
+                    }, 
+                    {
+                        "Name": "Accept-Encoding", 
+                        "Value": "gzip, deflate"
+                    }, 
+                    {
+                        "Name": "Accept-Language", 
+                        "Value": "es-ES,es;q=0.8"
+                    }, 
+                    {
+                        "Name": "Cookie", 
+                        "Value": "_ga=GA1.2.178108247.1507827713; _gid=GA1.2.1565025732.1508943958; JSESSIONID=G1PA3rQy11MswXaSpXZbe77g; AWSELB=ABE99BDD0CF29FBC37016E9459A7A732D84D8B9FF3C37EC374B1BD066CA9CD84405367AAE2668D43269C752AB262DE76B222F5A0D113143DD0507085972B92A4BA00FCB1DF"
+                    }
+                ], 
+                "ClientIP": "187.188.188.14", 
+                "Method": "GET", 
+                "HTTPVersion": "HTTP/1.1"
+            }, 
+            "Weight": 3
+        }, 
+        {
+            "Action": "ALLOW", 
+            "Timestamp": 1509120831.468, 
+            "Request": {
+                "Country": "MX", 
+                "URI": "/Entrada.jsp", 
+                "Headers": [
+                    {
+                        "Name": "Host", 
+                        "Value": "administrador.upaxer.com"
+                    }, 
+                    {
+                        "Name": "User-Agent", 
+                        "Value": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G531H Build/LMY48B)"
+                    }, 
+                    {
+                        "Name": "Accept-Encoding", 
+                        "Value": "gzip"
+                    }
+                ], 
+                "ClientIP": "187.198.16.174", 
+                "Method": "GET", 
+                "HTTPVersion": "HTTP/1.1"
+            }, 
+            "Weight": 1
+        }, 
+        {
+            "Action": "ALLOW", 
+            "Timestamp": 1509122003.406, 
+            "Request": {
+                "Country": "MX", 
+                "URI": "/assets/plugins/jQuery-slimScroll/jquery.slimscroll.min.js", 
+                "Headers": [
+                    {
+                        "Name": "Host", 
+                        "Value": "administrador.upaxer.com"
+                    }, 
+                    {
+                        "Name": "User-Agent", 
+                        "Value": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+                    }, 
+                    {
+                        "Name": "Accept", 
+                        "Value": "*/*"
+                    }, 
+                    {
+                        "Name": "Referer", 
+                        "Value": "http://administrador.upaxer.com/CallCenter.jsp?encucontestada=MjA4Mjg4"
+                    }, 
+                    {
+                        "Name": "Accept-Encoding", 
+                        "Value": "gzip, deflate"
+                    }, 
+                    {
+                        "Name": "Accept-Language", 
+                        "Value": "es-ES,es;q=0.8"
+                    }, 
+                    {
+                        "Name": "Cookie", 
+                        "Value": "_ga=GA1.2.716786888.1508945136; JSESSIONID=rFci86qYNqs20qVw-3sNJGg3; AWSELB=ABE99BDD0CF29FBC37016E9459A7A732D84D8B9FF3C37EC374B1BD066CA9CD84405367AAE2668D43269C752AB262DE76B222F5A0D113143DD0507085972B92A4BA00FCB1DF"
+                    }, 
+                    {
+                        "Name": "If-None-Match", 
+                        "Value": "W/\"4723-1509107164000\""
+                    }, 
+                    {
+                        "Name": "If-Modified-Since", 
+                        "Value": "Fri, 27 Oct 2017 12:26:04 GMT"
+                    }
+                ], 
+                "ClientIP": "187.188.107.63", 
+                "Method": "GET", 
+                "HTTPVersion": "HTTP/1.1"
+            }, 
+            "Weight": 1
+        }, 
+        {
+            "Action": "ALLOW", 
+            "Timestamp": 1509121905.065, 
+            "Request": {
+                "Country": "MX", 
+                "URI": "/Request", 
+                "Headers": [
+                    {
+                        "Name": "Host", 
+                        "Value": "administrador.upaxer.com"
+                    }, 
+                    {
+                        "Name": "Content-Length", 
+                        "Value": "286"
+                    }, 
+                    {
+                        "Name": "Accept", 
+                        "Value": "application/json, text/javascript, */*; q=0.01"
+                    }, 
+                    {
+                        "Name": "Origin", 
+                        "Value": "http://administrador.upaxer.com"
+                    }, 
+                    {
+                        "Name": "X-Requested-With", 
+                        "Value": "XMLHttpRequest"
+                    }, 
+                    {
+                        "Name": "User-Agent", 
+                        "Value": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+                    }, 
+                    {
+                        "Name": "Content-Type", 
+                        "Value": "application/x-www-form-urlencoded; charset=UTF-8"
+                    }, 
+                    {
+                        "Name": "Referer", 
+                        "Value": "http://administrador.upaxer.com/AsignacionDirecta.jsp"
+                    }, 
+                    {
+                        "Name": "Accept-Encoding", 
+                        "Value": "gzip, deflate"
+                    }, 
+                    {
+                        "Name": "Accept-Language", 
+                        "Value": "es-ES,es;q=0.8"
+                    }, 
+                    {
+                        "Name": "Cookie", 
+                        "Value": "_ga=GA1.2.2095260137.1483572468; JSESSIONID=9Xhhxlq7kvEqUcf5PwUpU3WL; AWSELB=ABE99BDD0CF29FBC37016E9459A7A732D84D8B9FF38C95661C5BA6F5ED817A178A9C8329C65D1B8149845385CF2E8278C9FE278BC213143DD0507085972B92A4BA00FCB1DF"
+                    }
+                ], 
+                "ClientIP": "187.188.188.14", 
+                "Method": "POST", 
+                "HTTPVersion": "HTTP/1.1"
+            }, 
+            "Weight": 12
+        }, 
+        {
+            "Action": "ALLOW", 
+            "Timestamp": 1509121520.846, 
+            "Request": {
+                "Country": "MX", 
+                "URI": "/Asignacion.jsp", 
+                "Headers": [
+                    {
+                        "Name": "Host", 
+                        "Value": "administrador.upaxer.com"
+                    }, 
+                    {
+                        "Name": "Content-Length", 
+                        "Value": "13"
+                    }, 
+                    {
+                        "Name": "Cache-Control", 
+                        "Value": "max-age=0"
+                    }, 
+                    {
+                        "Name": "Origin", 
+                        "Value": "http://administrador.upaxer.com"
+                    }, 
+                    {
+                        "Name": "Upgrade-Insecure-Requests", 
+                        "Value": "1"
+                    }, 
+                    {
+                        "Name": "Content-Type", 
+                        "Value": "application/x-www-form-urlencoded"
+                    }, 
+                    {
+                        "Name": "User-Agent", 
+                        "Value": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+                    }, 
+                    {
+                        "Name": "Accept", 
+                        "Value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8"
+                    }, 
+                    {
+                        "Name": "Referer", 
+                        "Value": "http://administrador.upaxer.com/ProyectoAsignacion.jsp"
+                    }, 
+                    {
+                        "Name": "Accept-Encoding", 
+                        "Value": "gzip, deflate"
+                    }, 
+                    {
+                        "Name": "Accept-Language", 
+                        "Value": "es-ES,es;q=0.8"
+                    }, 
+                    {
+                        "Name": "Cookie", 
+                        "Value": "_ga=GA1.2.2095260137.1483572468; JSESSIONID=9Xhhxlq7kvEqUcf5PwUpU3WL; AWSELB=ABE99BDD0CF29FBC37016E9459A7A732D84D8B9FF38C95661C5BA6F5ED817A178A9C8329C65D1B8149845385CF2E8278C9FE278BC213143DD0507085972B92A4BA00FCB1DF"
+                    }
+                ], 
+                "ClientIP": "187.188.188.14", 
+                "Method": "POST", 
+                "HTTPVersion": "HTTP/1.1"
+            }, 
+            "Weight": 2
+        }, 
+        {
+            "Action": "ALLOW", 
+            "Timestamp": 1509121856.455, 
+            "Request": {
+                "Country": "MX", 
+                "URI": "/assets/js/Ajax.js", 
+                "Headers": [
+                    {
+                        "Name": "Host", 
+                        "Value": "administrador.upaxer.com"
+                    }, 
+                    {
+                        "Name": "User-Agent", 
+                        "Value": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+                    }, 
+                    {
+                        "Name": "Accept", 
+                        "Value": "*/*"
+                    }, 
+                    {
+                        "Name": "Referer", 
+                        "Value": "http://administrador.upaxer.com/Entrada.jsp"
+                    }, 
+                    {
+                        "Name": "Accept-Encoding", 
+                        "Value": "gzip, deflate"
+                    }, 
+                    {
+                        "Name": "Accept-Language", 
+                        "Value": "es-ES,es;q=0.8"
+                    }, 
+                    {
+                        "Name": "Cookie", 
+                        "Value": "_ga=GA1.2.1783868943.1506987736; _gid=GA1.2.1458700496.1509036606; JSESSIONID=ReF6ihzC7sOx7soIJHTOlGB5; AWSELB=ABE99BDD0CF29FBC37016E9459A7A732D84D8B9FF38C95661C5BA6F5ED817A178A9C8329C65D1B8149845385CF2E8278C9FE278BC213143DD0507085972B92A4BA00FCB1DF"
+                    }
+                ], 
+                "ClientIP": "187.188.188.14", 
+                "Method": "GET", 
+                "HTTPVersion": "HTTP/1.1"
+            }, 
+            "Weight": 8
+        }, 
+        {
+            "Action": "ALLOW", 
+            "Timestamp": 1509121710.461, 
+            "Request": {
+                "Country": "MX", 
+                "URI": "/Request", 
+                "Headers": [
+                    {
+                        "Name": "Host", 
+                        "Value": "administrador.upaxer.com"
+                    }, 
+                    {
+                        "Name": "Content-Length", 
+                        "Value": "85"
+                    }, 
+                    {
+                        "Name": "Accept", 
+                        "Value": "application/json, text/javascript, */*; q=0.01"
+                    }, 
+                    {
+                        "Name": "Origin", 
+                        "Value": "http://administrador.upaxer.com"
+                    }, 
+                    {
+                        "Name": "X-Requested-With", 
+                        "Value": "XMLHttpRequest"
+                    }, 
+                    {
+                        "Name": "User-Agent", 
+                        "Value": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+                    }, 
+                    {
+                        "Name": "Content-Type", 
+                        "Value": "application/x-www-form-urlencoded; charset=UTF-8"
+                    }, 
+                    {
+                        "Name": "Referer", 
+                        "Value": "http://administrador.upaxer.com/AsignacionDirecta.jsp"
+                    }, 
+                    {
+                        "Name": "Accept-Encoding", 
+                        "Value": "gzip, deflate"
+                    }, 
+                    {
+                        "Name": "Accept-Language", 
+                        "Value": "es-ES,es;q=0.8"
+                    }, 
+                    {
+                        "Name": "Cookie", 
+                        "Value": "_ga=GA1.2.1639774171.1505316307; _gid=GA1.2.1318231343.1509028426; JSESSIONID=jN8oQAs1bUCQGkZt2xPRc46i; AWSELB=ABE99BDD0CF29FBC37016E9459A7A732D84D8B9FF3C37EC374B1BD066CA9CD84405367AAE25D1B8149845385CF2E8278C9FE278BC213143DD0507085972B92A4BA00FCB1DF"
+                    }
+                ], 
+                "ClientIP": "187.188.188.14", 
+                "Method": "POST", 
+                "HTTPVersion": "HTTP/1.1"
+            }, 
+            "Weight": 3
+        }, 
+        {
+            "Action": "ALLOW", 
+            "Timestamp": 1509121804.828, 
+            "Request": {
+                "Country": "MX", 
+                "URI": "/Request?controller=UsuarioController&action=listaUsuariosBusqueda&idEstatus=-1&q=pax10900", 
+                "Headers": [
+                    {
+                        "Name": "Host", 
+                        "Value": "administrador.upaxer.com"
+                    }, 
+                    {
+                        "Name": "Accept", 
+                        "Value": "application/json, text/javascript, */*; q=0.01"
+                    }, 
+                    {
+                        "Name": "X-Requested-With", 
+                        "Value": "XMLHttpRequest"
+                    }, 
+                    {
+                        "Name": "User-Agent", 
+                        "Value": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+                    }, 
+                    {
+                        "Name": "Referer", 
+                        "Value": "http://administrador.upaxer.com/AsignacionDirecta.jsp"
+                    }, 
+                    {
+                        "Name": "Accept-Encoding", 
+                        "Value": "gzip, deflate"
+                    }, 
+                    {
+                        "Name": "Accept-Language", 
+                        "Value": "es-ES,es;q=0.8"
+                    }, 
+                    {
+                        "Name": "Cookie", 
+                        "Value": "_ga=GA1.2.1639774171.1505316307; _gid=GA1.2.1318231343.1509028426; JSESSIONID=jN8oQAs1bUCQGkZt2xPRc46i; AWSELB=ABE99BDD0CF29FBC37016E9459A7A732D84D8B9FF3C37EC374B1BD066CA9CD84405367AAE25D1B8149845385CF2E8278C9FE278BC213143DD0507085972B92A4BA00FCB1DF"
+                    }
+                ], 
+                "ClientIP": "187.188.188.14", 
+                "Method": "GET", 
+                "HTTPVersion": "HTTP/1.1"
+            }, 
+            "Weight": 2
+        }
+    ], 
+    "PopulationSize": 5000
+}

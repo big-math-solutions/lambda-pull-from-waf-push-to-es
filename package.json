@@ -1,0 +1,23 @@
+{
+  "name": "lambda-s3-moving",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-lambda-testing": "^0.1.6",
+    "aws-sdk": "^2.134.0",
+    "co": "^4.6.0",
+    "elasticsearch": "^13.3.1",
+    "http-aws-es": "^3.1.0",
+    "nock": "^9.0.22",
+    "request": "^2.83.0"
+  }
+}
