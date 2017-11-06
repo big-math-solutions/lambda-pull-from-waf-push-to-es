@@ -15,4 +15,3 @@ All config is done by enviroment vars:
 | TIME_WINDOW_TO_PULL_SAMPLE | time to generate window of time to pull data from waf | ''|
 | WEB_ACL_ID | Web acl id to use in pull data from waf | ''|
 
-
