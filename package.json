@@ -11,6 +11,9 @@
   },
   "author": "",
   "license": "ISC",
+  "devDependencies":{
+    "mocha": "^2.5.3"
+  },
   "dependencies": {
     "aws-lambda-testing": "^0.1.6",
     "aws-sdk": "^2.134.0",
